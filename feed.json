@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Satoshi✨",
+    "description": "",
+    "home_page_url": "https://satoshiplus.net",
+    "feed_url": "https://satoshiplus.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Max"
+    },
+    "items": [
+    ]
+}

@@ -1,2 +1,0 @@
-# satoshiplus
-Satoshi✨ website
